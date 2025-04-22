@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="hello there" src="media/Starwars_1.gif" />
 
-# [NedaMani](Nedamani.md) is here :)
+# [NedaMani](NedaMani.md) is here :)
 
 <table align="center">
     <tr>

@@ -19,7 +19,8 @@
         </td>
         <td>
             <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" /><br />
+            <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/-astro-gray?logo=astro" /><br />
             <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" />
             <img src="https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white" /><br />
             <img src="https://img.shields.io/badge/react--hook--form-EC5990?logo=reacthookform&logoColor=white" />

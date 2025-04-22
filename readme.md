@@ -37,8 +37,6 @@
 </table>
 </div>
 
-<br />
-
 ### 🧠 How I Think
 
 - **Curiosity is my compass.**

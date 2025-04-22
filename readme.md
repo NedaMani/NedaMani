@@ -6,7 +6,7 @@
 <table align="center">
     <tr>
         <th>🧑‍💻 Main Languages</th>
-        <th>⚙️ Tools</th>
+        <th>⚙️ Current Main Tools</th>
         <th>🧐 Interesting</th>
     </tr>
     <tr>

@@ -25,6 +25,7 @@
             <img src="https://img.shields.io/badge/react--hook--form-EC5990?logo=reacthookform&logoColor=white" />
             <img src="https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=white" /><br />
             <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+            <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff" /><br />
             <img src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white" />
             <img src="https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white" /><br />
         </td>

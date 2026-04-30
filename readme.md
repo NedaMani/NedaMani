@@ -52,3 +52,5 @@
 <a href="http://www.coffeete.ir/NedaMani">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
+
+<div class="daramet-embed-donate" id="41360"><script src="https://daramet.com/embed/script.js"></script></div>

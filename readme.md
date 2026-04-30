@@ -49,8 +49,6 @@
 
 > "All models are wrong, but some are useful."
 
-<a href="http://www.coffeete.ir/NedaMani">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+<a href="https://daramet.com/nedamani" target="_blank" rel="noopener noreferrer">
+  <img src="media/daramet.png">
 </a>
-
-<div class="daramet-embed-donate" id="41360"><script src="https://daramet.com/embed/script.js"></script></div>

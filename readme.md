@@ -49,6 +49,4 @@
 
 > "All models are wrong, but some are useful."
 
-<a href="https://daramet.com/nedamani" target="_blank" rel="noopener noreferrer">
-  <img src="media/daramet.png">
-</a>
+<a href="https://daramet.com/nedamani" target="_blank" rel="noopener noreferrer">حمایت مالی از ادامه‌ی فعالیت‌ها</a>

@@ -1,5 +1,8 @@
 <div align="center">
-  <img alt="hello there" src="media/Starwars_1.gif" />
+<p align="center" style="font-family: monospace;">
+    <img src="https://profile-counter.deno.dev/NedaMani/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
+</p>
+<img alt="hello there" src="media/Starwars_1.gif" />
 
 # [NedaMani](NedaMani.md) is here :)
 

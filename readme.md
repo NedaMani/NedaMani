@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center" style="font-family: monospace;">
-    <img src="https://profile-counter.deno.dev/NedaMani/count.svg" alt="Profile Counter Repo :: Visitor's Count" />
+    <img src="https://profile-counter.deno.dev/NedaMani/count.svg" alt="Visitor's Count" />
 </p>
 <img alt="hello there" src="media/Starwars_1.gif" />
 

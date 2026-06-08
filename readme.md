@@ -51,11 +51,3 @@
 ### 😁 Fun Fact
 
 > "All models are wrong, but some are useful."
-
-<div align="center">
-    <a href='https://github.com/NedaMani?tab=repositories&q=&type=&language=&sort=stargazers'>
-        <img width='200' src='https://img.shields.io/github/stars/LiamSwayne?affiliations=OWNER&label=Stars&labelColor=%23210083&color=%233F0076'/>
-    </a>
-</div>
-
-<a href="https://daramet.com/nedamani" target="_blank" rel="noopener noreferrer">حمایت مالی از ادامه‌ی فعالیت‌ها</a>

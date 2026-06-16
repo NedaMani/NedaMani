@@ -34,8 +34,7 @@
             <img src="https://img.shields.io/badge/-Material--UI-007FFF?logo=mui&logoColor=white" />
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /><br />
-            <img src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white" />
+            <img src="https://img.shields.io/badge/-Obsidian-7C3AED?logo=obsidian&logoColor=white" /><br />
             <img src="https://img.shields.io/badge/-Data%20Science-3498DB?style=flat&logo=anaconda&logoColor=white" /><br />
         </td>
     </tr>

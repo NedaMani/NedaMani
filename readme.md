@@ -4,7 +4,7 @@
     <img src="https://profile-counter.deno.dev/NedaMani/count.svg" alt="Visitor's Count" />
 </p>
 
-# [NedaMani](NedaMani.md) is here :)
+# [NedāMāni](NedaMani.md) is here :)
 
 </div>
 
